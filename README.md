@@ -4,8 +4,8 @@
 
 Clone the repository:
 ~~~sh
-git clone https://github.com/lucaros97/inertia-laravel-vue-boilertemplate.git
-cd inertia-laravel-vue-boilertemplate
+git clone https://github.com/lucaros97/inertia-laravel-vue-boilerplate.git
+cd inertia-laravel-vue-boilerplate
 ~~~
 
 Install PHP dependencies:
