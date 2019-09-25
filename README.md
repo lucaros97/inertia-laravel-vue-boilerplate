@@ -1,4 +1,4 @@
-# A Laravel 6 + Inertia + Vue boilertemplate
+# A Laravel 6 + Inertia + Vue Boilerplate
 
 ## Installation
 
